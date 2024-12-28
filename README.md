@@ -1,4 +1,4 @@
 # MLFlow-tracing
 
-- (https://www.databricks.com/dataaisummit)
+- https://www.databricks.com/dataaisummit
 
